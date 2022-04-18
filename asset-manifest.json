@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/paos-bookstore/static/css/main.f40a794b.css",
+    "main.js": "/paos-bookstore/static/js/main.188951dc.js",
+    "index.html": "/paos-bookstore/index.html",
+    "main.f40a794b.css.map": "/paos-bookstore/static/css/main.f40a794b.css.map",
+    "main.188951dc.js.map": "/paos-bookstore/static/js/main.188951dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f40a794b.css",
+    "static/js/main.188951dc.js"
+  ]
+}
